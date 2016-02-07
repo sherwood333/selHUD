@@ -34,7 +34,6 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
 		"xpos"			"999"
-		"xpos_minmode"	"58"
 		"ypos"			"33"
 		"zpos"			"3"
 		"wide"			"55"
@@ -48,15 +47,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"60"	[$WIN32]
-		"xpos_minmode"	"65"	[$WIN32]
-		"ypos"			"99999"	[$WIN32]
+		"xpos"			"78"	[$WIN32]
+		"ypos"			"50"	[$WIN32]
 		"zpos"			"2"
-		"wide"			"0"	[$WIN32]
-		"tall"			"0"	[$WIN32]
-		"tall_minmode"	"40"	[$WIN32]
-		"visible"		"0"
-		"enabled"		"0"
+		"wide"			"20"	[$WIN32]
+		"tall"			"20"	[$WIN32]
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
