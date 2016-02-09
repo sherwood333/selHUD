@@ -72,15 +72,16 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r400"
+		"xpos"			"r310"
 
-		"ypos"			"r190"
+		"ypos"			"r210"
 
 
 
 		"wide"			"300"
 		"tall"			"200"
 	}
+
 	
 	HudDemomanCharge
 	{
