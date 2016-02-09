@@ -220,7 +220,7 @@
 		"ControlName"		"Label"
 		"fieldName"			"VersionNumber"
 		"font"					"ln12"
-		"labelText"				"selHUD"
+		"labelText"				""
 		"textAlignment"		"center"
 		"xpos"					"c300"
 		"ypos"					"r150"
